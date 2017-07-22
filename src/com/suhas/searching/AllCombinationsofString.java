@@ -1,4 +1,4 @@
-package algo;
+package com.suhas.searching;
 
 public class AllCombinationsofString {
 
